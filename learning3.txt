@@ -1,2 +1,2 @@
 I am learning3.tx
-the second I want to commit the file
+the second I want to commit the file and reset again
