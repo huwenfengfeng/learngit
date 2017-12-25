@@ -1,2 +1,3 @@
 I am learning3.tx
 the second I want to commit the file and reset again
+胡文峰新增加的内容哦
